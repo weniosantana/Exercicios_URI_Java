@@ -1,1 +1,3 @@
-# Exercicios_URI_Java
+# Exercicios da URI Online Judge 💻
+
+## Repositorios para os exercicios;
